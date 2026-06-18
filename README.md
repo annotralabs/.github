@@ -51,7 +51,7 @@ Every annotation tool we tried was either too limited on the free tier or assume
 
 <div align="center">
 
-| ![Annotation canvas screenshot](image.png) |
+![Annotation canvas screenshot](image.png)
 
 </div>
 
