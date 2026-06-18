@@ -51,9 +51,7 @@ Every annotation tool we tried was either too limited on the free tier or assume
 
 <div align="center">
 
-| Annotation Canvas | Dashboard |
-|---|---|
-| ![Annotation canvas screenshot](./assets/screenshot-canvas.png) | ![Dashboard screenshot](./assets/screenshot-dashboard.png) |
+| ![Annotation canvas screenshot](image.png) |
 
 </div>
 
