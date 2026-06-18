@@ -51,7 +51,9 @@ Every annotation tool we tried was either too limited on the free tier or assume
 
 <div align="center">
 
-![Annotation canvas screenshot](image.png)
+| Website Home | Canvas Console |
+|---|---|
+| ![Website Home](image.png) | ![Canvas Console screenshot](canvas-image.png) |
 
 </div>
 
@@ -60,7 +62,7 @@ Every annotation tool we tried was either too limited on the free tier or assume
 
 ## Tech Stack
 
-`Next.js` · `TypeScript` · `Golang` · `PostgreSQL` · `Konva.js` · `Google Colab` · `YOLOv8` · `Gemini API` · `Cloudflare Tunnel`
+`Next.js` · `TypeScript` · `Golang` · `PostgreSQL` · `Konva.js` · `Google Colab` · `YOLOv8` · `Gemini API` · `Cloudflare Tunnel` · `Firebase`
 
 ---
 
@@ -70,6 +72,6 @@ This is an early-stage, in-progress build. Star the repos to follow development 
 
 <div align="center">
 
-**Built by ML engineers who didn't have a GPU either.**
+**Built by ML engineer who didn't have a GPU either.**
 
 </div>
