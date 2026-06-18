@@ -55,7 +55,6 @@ Every annotation tool we tried was either too limited on the free tier or assume
 
 </div>
 
-*(Placeholder images above — replace `./assets/screenshot-canvas.png` and `./assets/screenshot-dashboard.png` once you have real screenshots.)*
 
 ---
 
